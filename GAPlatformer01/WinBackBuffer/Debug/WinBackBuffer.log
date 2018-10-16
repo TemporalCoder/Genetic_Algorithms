@@ -1,0 +1,7 @@
+﻿  WinBackBuffer.cpp
+c:\users\starwars\documents\intelligentsystemsstuff\gaplatformer01\winbackbuffer\winbackbuffer.cpp(62): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\starwars\documents\intelligentsystemsstuff\gaplatformer01\winbackbuffer\winbackbuffer.cpp(511): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+c:\users\starwars\documents\intelligentsystemsstuff\gaplatformer01\winbackbuffer\winbackbuffer.cpp(665): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\starwars\documents\intelligentsystemsstuff\gaplatformer01\winbackbuffer\winbackbuffer.cpp(676): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\starwars\documents\intelligentsystemsstuff\gaplatformer01\winbackbuffer\winbackbuffer.cpp(683): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  WinBackBuffer.vcxproj -> C:\Users\Starwars\Documents\IntelligentSystemsStuff\GAPlatformer01\Debug\WinBackBuffer.exe
