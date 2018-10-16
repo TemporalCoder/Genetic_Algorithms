@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\starwars\source\repos\carai\carai\main.cpp(76): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\starwars\source\repos\carai\carai\main.cpp(77): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\starwars\source\repos\carai\carai\main.cpp(391): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\starwars\source\repos\carai\carai\main.cpp(393): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\starwars\source\repos\carai\carai\main.cpp(394): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\starwars\source\repos\carai\carai\main.cpp(396): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  CarAI.vcxproj -> C:\Users\Starwars\source\repos\CarAI\Debug\CarAI.exe
