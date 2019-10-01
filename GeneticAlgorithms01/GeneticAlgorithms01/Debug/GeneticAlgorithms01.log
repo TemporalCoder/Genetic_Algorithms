@@ -1,0 +1,8 @@
+﻿  MainForm.cpp
+H:\Programming Stuff\GeneticAlgorithms01\GeneticAlgorithms01\MainForm.h(4,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+H:\Programming Stuff\GeneticAlgorithms01\GeneticAlgorithms01\MainForm.h(236,41): warning C4244:  '-=': conversion from 'float' to 'int', possible loss of data
+H:\Programming Stuff\GeneticAlgorithms01\GeneticAlgorithms01\MainForm.h(379,23): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+H:\Programming Stuff\GeneticAlgorithms01\GeneticAlgorithms01\MainForm.h(390,16): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+H:\Programming Stuff\GeneticAlgorithms01\GeneticAlgorithms01\MainForm.h(397,31): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+  MainForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  GeneticAlgorithms01.vcxproj -> H:\Programming Stuff\GeneticAlgorithms01\Debug\GeneticAlgorithms01.exe
